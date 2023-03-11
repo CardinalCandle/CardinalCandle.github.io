@@ -1,6 +1,6 @@
-# CardinalCandle.github.io
+# CardinalCandle
 
-## [Cybersecurity ressources](https://cardinalcandle.github.io/Cybsec_ressources)
+[Cybersecurity ressources](https://cardinalcandle.github.io/Cybsec_ressources)
 
 [comment]: Exercises
 
