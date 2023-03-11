@@ -7,3 +7,6 @@
 [submodule "library"]
 	path = library
 	url = https://github.com/CardinalCandle/library
+[submodule "etch-a-sketch"]
+	path = etch-a-sketch
+	url = https://github.com/CardinalCandle/etch-a-sketch
