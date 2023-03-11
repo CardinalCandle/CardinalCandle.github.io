@@ -1,8 +1,7 @@
 # Cybersecurity 
-Commented Guide (w/ my opinions) : 
-[https://docs.google.com/document/d/1rWn1fSe-fF33GRsIwaPYX6ZcHHL11ugLKnsg7zdTvK4/edit?usp=sharing](https://docs.google.com/document/d/1rWn1fSe-fF33GRsIwaPYX6ZcHHL11ugLKnsg7zdTvK4/edit?usp=sharing)
+Commented Guide (w/ my opinions) : [link](https://docs.google.com/document/d/1rWn1fSe-fF33GRsIwaPYX6ZcHHL11ugLKnsg7zdTvK4/edit?usp=sharing)
 
-2023-03-25
+2023-03-11
 
 ## Foundation
 
@@ -16,7 +15,7 @@ Learn Python :
 
 - [Python Cookbook](http://library.lol/main/E1E946230F2C834DA3F64168FBA01AB1) by David Beazley, Brian K. Jones
 
-- https://www.udemy.com/learn-python-and-ethical-hacking-from-scratch/
+- [Learn Python & Ethical Hacking From Scratch](https://www.udemy.com/learn-python-and-ethical-hacking-from-scratch/)
 
 Learn Linux : 
 
@@ -24,15 +23,15 @@ Learn Linux :
 
 Practice linux :  
 
-- [https://overthewire.org/wargames/](https://overthewire.org/wargames/)
+- [Bandit wargames](https://overthewire.org/wargames/)
 
-Practice Offensive security :  
+Learn basic offensive security :  
 
-- [https://tryhackme.com/resources/blog/free_path](https://tryhackme.com/resources/blog/free_path)
+- [Free TryHackMe Training](https://tryhackme.com/resources/blog/free_path)
 
 ## Courses
 
-OSCP Course : https://pwk.hide01.ir/
+- [OSCP Course](https://pwk.hide01.ir/)
 
 ## Readings 
 
@@ -56,7 +55,7 @@ CTFs :
 
 - [https://github.com/Ignitetechnologies/CTF-Difficulty](https://github.com/Ignitetechnologies/CTF-Difficulty)  
 
-- [https://www.hackthebox.com/](https://www.hackthebox.com/)
+- [HackTheBox](https://www.hackthebox.com/)
 
 # Advanced Resources
 
