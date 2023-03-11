@@ -1,2 +1,2 @@
 # CardinalCandle.github.io
-[Rock Paper Scissors](https://github.com/CardinalCandle/rock-paper-scissors)
+[Rock Paper Scissors](https://CardinalCandle.github.io/rock-paper-scissors)
