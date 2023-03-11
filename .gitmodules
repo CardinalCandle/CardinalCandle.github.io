@@ -10,3 +10,12 @@
 [submodule "etch-a-sketch"]
 	path = etch-a-sketch
 	url = https://github.com/CardinalCandle/etch-a-sketch
+[submodule "tic-tac-toe"]
+	path = tic-tac-toe
+	url = https://github.com/CardinalCandle/tic-tac-toe
+[submodule "restaurant-page"]
+	path = restaurant-page
+	url = https://github.com/CardinalCandle/restaurant-page
+[submodule "todo-list"]
+	path = todo-list
+	url = https://github.com/CardinalCandle/todo-list
