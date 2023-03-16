@@ -3,9 +3,40 @@ Commented Guide (w/ my opinions) : [link](https://docs.google.com/document/d/1rW
 
 2023-03-11
 
-## Foundation
+## Table of contents
 
-Learn Python :
+1. [Foundation](#foundation)
+    
+    1. [Learn Python](#python)
+    
+    2. [Learn Linux](#linux)
+    
+    3. [Practice Linux](#linux_practice)
+    
+    2. [Learn Basic Offensive Security](#offsec)
+
+2. [Courses](#course)
+
+3. [Readings](#readings)
+
+4. [Practice](#practice)
+
+5. [Advanced Resources](#advanced)
+  
+   1. [Malware Development](#maldev)
+  
+   2. [Computer Forensics](#forensics)
+  
+   3. [Binary Exploitation](#binary)
+  
+   4. [Open Source Intelligence](#osint)
+  
+   5. [Misc Resources](#misc)
+
+
+## Foundation <a name="foundation"></a>
+
+Learn Python : <a name="python"></a>
 
 - [Learn Python 3 the Hard Way](http://library.lol/main/B06F844F416AAEE94A19DCA4730D66BB) by Zed A. Shaw
 
@@ -17,23 +48,23 @@ Learn Python :
 
 - [Learn Python & Ethical Hacking From Scratch](https://www.udemy.com/learn-python-and-ethical-hacking-from-scratch/)
 
-Learn Linux : 
+Learn Linux : <a name="linux"></a>
 
 - [The Linux Command Line: A Complete Introduction](https://cloudflare-ipfs.com/ipfs/bafykbzacebsgrooa3najmtlcydw2fq3ydlglvuyqwvjv55trc5ihgwrww7qju?filename=William%20E.%20Shotts%2C%20Jr.%20-%20The%20Linux%20Command%20Line_%20A%20Complete%20Introduction-No%20Starch%20Press%20%282012%29.pdf)
 
-Practice linux :  
+Practice linux : <a name="linux_practice"></a>
 
 - [Bandit wargames](https://overthewire.org/wargames/)
 
-Learn basic offensive security :  
+Learn basic offensive security :  <a name="offsec"></a>
 
 - [Free TryHackMe Training](https://tryhackme.com/resources/blog/free_path)
 
-## Courses
+## Courses <a name="course"></a>
 
 - [OSCP Course](https://pwk.hide01.ir/)
 
-## Readings 
+## Readings <a name="readings"></a>
 
 - [Penetration Testing: A Hands-On Introduction to Hacking](http://library.lol/main/962731B796C1938777E1B9C46B48644E) by Georgia Weidman
 
@@ -49,7 +80,7 @@ Learn basic offensive security :
 
 - [Rtfm: Red Team Field Manual](http://library.lol/main/4E34290B25A81C1132B46BE57D181AD4) by Ben Clark
 
-## Practice
+## Practice <a name="practice"></a>
 
 CTFs :
 
@@ -57,9 +88,9 @@ CTFs :
 
 - [HackTheBox](https://www.hackthebox.com/)
 
-# Advanced Resources
+# Advanced Resources <a name="advanced"></a>
 
-## Malware Development
+## Malware Development <a name="maldev"></a>
 
 - [https://github.com/RPISEC/Malware](https://github.com/RPISEC/Malware)
 
@@ -81,19 +112,19 @@ CTFs :
 
 - [https://0x00sec.org/c/malware/56](https://0x00sec.org/c/malware/56)
 
-## Computer Forensics
+## Computer Forensics <a name="forensics"></a>
 
 - [Practical Forensic Imaging: Securing Digital Evidence with Linux Tools](http://library.lol/main/1B9F395E7259088FB1EF13844310C475) by Bruce Nikkel
 
 - https://web.archive.org/web/20220216064210/https://forensicswiki.xyz/page/Main_Page
 
-## Binary Exploitation
+## Binary Exploitation <a name="binary"></a>
 
 - [https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
 
 - [https://web.archive.org/web/20210710080726/http://security.cs.rpi.edu/courses/binexp-spring2015/](https://web.archive.org/web/20210710080726/http://security.cs.rpi.edu/courses/binexp-spring2015/)
 
-## Open Source Intelligence
+## Open Source Intelligence <a name="osint"></a>
 
 - [https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/](https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/)
 
@@ -140,7 +171,7 @@ CTFs :
 - [https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)
 
 
-## Misc Resources
+## Misc Resources <a name="misc"></a>
 
 - [http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf](http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 
