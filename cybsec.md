@@ -6,14 +6,11 @@ As of 2023-03-28
 ## Table of contents
 
 1. [Foundation](#foundation)
-    
+
     1. [Learn Python](#python)
-    
     2. [Learn Linux](#linux)
-    
     3. [Practice Linux](#linux_practice)
-    
-    2. [Learn Basic Offensive Security](#offsec)
+    4. [Learn Basic Offensive Security](#offsec)
 
 2. [Courses](#course)
 
