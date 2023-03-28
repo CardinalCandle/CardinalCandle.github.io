@@ -107,6 +107,8 @@ CTFs :
 
 - [PC Assembly Language](http://library.lol/main/DEF907D599371146F5DED35B258387EA) by Paul Carter
 
+- [Practical binary analysis: build your own Linux tools for binary instrumentation, analysis, and disassembly](http://library.lol/main/6AD61BF0BC061F3C4C199462BD8A8399) by Dennis Andriesse
+
 - [Programming Linux: Anti-Reversing Techniques](http://library.lol/main/FDF1E4BFFF3995DC5A8580EB00FA23E5) by Jacob Baines
 
 - NYU:Poly's Intro to Reverse Engineering [101](https://prezi.com/a5tm-lf0879-/reverse-engineering-101-nyupoly-2010/) and [102](https://prezi.com/e5a2tumdqocj/reverse-engineering-102-nyupoly-2010/)
@@ -119,7 +121,11 @@ CTFs :
 
 - [Practical reverse engineering: x86, x64, ARM, Windows Kernel, reversing tools, and obfuscation](http://library.lol/main/531A232D2A9B21D0B1599B6A55E94D91) by Bruce Dang et al.
 
+- [dojo.pwn.college](https://dojo.pwn.college/)
+
 - [OpenSecurityTraining](https://opensecuritytraining.info/Training.html)
+
+- [The Legend of Random](https://legend.octopuslabs.io/sample-page.html)
 
 - [https://github.com/0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 
