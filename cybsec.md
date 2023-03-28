@@ -103,9 +103,13 @@ CTFs :
 - [The Art of Assembly Language](http://library.lol/main/858BE5131123C87921EE134FCAD47328) by Randall Hyde
 
 - Write Great Code Vol. 1: [Understanding the Machine](http://library.lol/main/8EAF611A936DE327B1C92147877528C7) by Randall Hyde
+
 - Write Great Code Vol. 2: [Thinking Low-Level, Writing High-Level](http://library.lol/main/0FD42117E881874CD5906A2AF98706E4) by Randall Hyde
+
 - Write Great Code Vol. 3: [Engineering Software](http://library.lol/main/866DE65327255DA816718A45572EACE5) by Randall Hyde
+
 - [PC Assembly Language](http://library.lol/main/DEF907D599371146F5DED35B258387EA) by Paul Carter
+
 - [Programming Linux: Anti-Reversing Techniques](http://library.lol/main/FDF1E4BFFF3995DC5A8580EB00FA23E5) by Jacob Baines
 
 - NYU:Poly's Intro to Reverse Engineering [101](https://prezi.com/a5tm-lf0879-/reverse-engineering-101-nyupoly-2010/) and [102](https://prezi.com/e5a2tumdqocj/reverse-engineering-102-nyupoly-2010/)
@@ -115,6 +119,7 @@ CTFs :
 - [Reverse Engineering for Beginners](http://library.lol/main/4590A0C34D3B5B6CA77B4202D4036D48) by Dennis Yurichev
 
 - [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](http://library.lol/main/21F9FDBD90744C6AE0189B9CCDC26BF9) by Michael Sikorski & Andrew Honig
+
 - [Practical reverse engineering: x86, x64, ARM, Windows Kernel, reversing tools, and obfuscation](http://library.lol/main/531A232D2A9B21D0B1599B6A55E94D91) by Bruce Dang et al.
 
 - [OpenSecurityTraining](https://opensecuritytraining.info/Training.html)
