@@ -24,7 +24,7 @@ Commented Guide (w/ my opinions) : [link](https://docs.google.com/document/d/1rW
 5. [Advanced Resources](#advanced)
   
    1. [Awesome lists](#awesome)
-   2. [Reverse Engineering](#RE)
+   2. [Reverse Engineering](#rev_eng)
    3. [Malware Development](#maldev)
    4. [Computer Forensics](#forensics)
    5. [Binary Exploitation](#binary)
@@ -96,7 +96,7 @@ CTFs :
 
 - [https://github.com/rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
 
-## Reverse Engineering <a name="RE"></a>
+## Reverse Engineering <a name="rev_eng"></a>
 
 - [Reverse Engineering for Beginners](http://library.lol/main/4590A0C34D3B5B6CA77B4202D4036D48) by Dennis Yurichev
 
