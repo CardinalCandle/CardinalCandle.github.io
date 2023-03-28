@@ -98,15 +98,17 @@ CTFs :
 
 ## Reverse Engineering <a name="rev_eng"></a>
 
+- [MicroCorruption CTF](https://microcorruption.com/)
+
+- NYU:Poly's Intro to Reverse Engineering [101](https://prezi.com/a5tm-lf0879-/reverse-engineering-101-nyupoly-2010/) and [102](https://prezi.com/e5a2tumdqocj/reverse-engineering-102-nyupoly-2010/)
+
+- [Reversing: secrets of reverse engineering](http://library.lol/main/6CC7042E74CE0953C0E7DC5C17471CE5) by Eldad Eilam
+
 - [Reverse Engineering for Beginners](http://library.lol/main/4590A0C34D3B5B6CA77B4202D4036D48) by Dennis Yurichev
 
 - [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](http://library.lol/main/21F9FDBD90744C6AE0189B9CCDC26BF9) by Michael Sikorski & Andrew Honig
 
 - [OpenSecurityTraining](https://opensecuritytraining.info/Training.html)
-
-- [MicroCorruption CTF](https://microcorruption.com/)
-
-- NYU:Poly's Intro to Reverse Engineering [101](https://prezi.com/a5tm-lf0879-/reverse-engineering-101-nyupoly-2010/) and [102](https://prezi.com/e5a2tumdqocj/reverse-engineering-102-nyupoly-2010/)
 
 - [https://github.com/0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 
@@ -125,8 +127,6 @@ CTFs :
 - [Reverse Engineering Reading List](https://github.com/onethawt/reverseengineering-reading-list)
 
 - [Awesome Reversing](https://github.com/ReversingID/Awesome-Reversing)
-
-- [Reversing: secrets of reverse engineering](http://library.lol/main/6CC7042E74CE0953C0E7DC5C17471CE5) by Eldad Eilam
 
 - [From 0x90 to 0x4c454554, a journey into exploitation.](http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html)
 
