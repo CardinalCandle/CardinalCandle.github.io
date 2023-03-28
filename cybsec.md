@@ -123,7 +123,17 @@ CTFs :
 
 - [dojo.pwn.college](https://dojo.pwn.college/)
 
-- [OpenSecurityTraining](https://opensecuritytraining.info/Training.html)
+- [Open Security Training](https://opensecuritytraining.info/Training.html)
+
+- [Open Security Training 2](https://p.ost2.fyi/courses)
+
+- [OFFENSIVE SECURITY & REVERSE ENGINEERING (OSRE) Course](https://exploitation.ashemery.com/)
+
+- [Nightmare - intro to binary exploitation / reverse engineering course](https://guyinatuxedo.github.io/index.html)
+
+- [An Intro to x86_64 Reverse Engineering](https://nora.codes/tutorial/an-intro-to-x86_64-reverse-engineering/)
+
+- [Getting Started with Reverse Engineering](https://lospi.net/developing/software/software%20engineering/reverse%20engineering/assembly/2015/03/06/reversing-with-ida.html)
 
 - [The Legend of Random](https://legend.octopuslabs.io/sample-page.html)
 
@@ -241,6 +251,8 @@ CTFs :
 
 
 ## Misc Resources <a name="misc"></a>
+
+- [ So You Want To Be a Pentester? (Updated 2023)](https://jhalon.github.io/becoming-a-pentester/)
 
 - [http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf](http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 
