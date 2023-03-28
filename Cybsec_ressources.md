@@ -96,7 +96,7 @@ CTFs :
 
 - [https://github.com/rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
 
-## Reverse Engineering <a name='RE'></a>
+## Reverse Engineering <a name="RE"></a>
 
 - [Reverse Engineering for Beginners](http://library.lol/main/4590A0C34D3B5B6CA77B4202D4036D48) by Dennis Yurichev
 
