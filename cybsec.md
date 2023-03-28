@@ -65,7 +65,7 @@ Learn basic offensive security :  <a name="offsec"></a>
 
 - [The web application hacker's handbook: finding and exploiting security flaws](http://library.lol/main/F7865F583E1DBBFD606AF9AC2BFE304B) by Dafydd Stuttard, Marcus Pinto
 
-- Hacker Methodology Handbook by Thomas Bobeckk: https://www.amazon.com/Hacker-Methodology-Handbook-Thomas-Bobeck/dp/1731258380
+- [Hacker Methodology Handbook](https://www.amazon.com/Hacker-Methodology-Handbook-Thomas-Bobeck/dp/1731258380) by Thomas Bobeckk
 
 - [The Hacker Playbook 2: Practical Guide To Penetration Testing](http://library.lol/main/F5E7002ECD93240D99C81ED75598854A) by Peter Kim
 
