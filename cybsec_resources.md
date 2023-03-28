@@ -100,6 +100,8 @@ CTFs :
 
 - [MicroCorruption CTF](https://microcorruption.com/)
 
+- [The Art of Assembly Language](http://library.lol/main/858BE5131123C87921EE134FCAD47328) by Randall Hyde
+
 - NYU:Poly's Intro to Reverse Engineering [101](https://prezi.com/a5tm-lf0879-/reverse-engineering-101-nyupoly-2010/) and [102](https://prezi.com/e5a2tumdqocj/reverse-engineering-102-nyupoly-2010/)
 
 - [Reversing: secrets of reverse engineering](http://library.lol/main/6CC7042E74CE0953C0E7DC5C17471CE5) by Eldad Eilam
