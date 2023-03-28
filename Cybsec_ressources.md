@@ -1,7 +1,7 @@
 # Cybersecurity 
 Commented Guide (w/ my opinions) : [link](https://docs.google.com/document/d/1rWn1fSe-fF33GRsIwaPYX6ZcHHL11ugLKnsg7zdTvK4/edit?usp=sharing)
 
-2023-03-11
+As of 2023-03-28
 
 ## Table of contents
 
