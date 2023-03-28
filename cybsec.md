@@ -125,6 +125,8 @@ CTFs :
 
 - [Open Security Training](https://opensecuritytraining.info/Training.html)
 
+- [OpenSecurityTraining YouTube channel](https://www.youtube.com/@OpenSecurityTraining)
+
 - [OFFENSIVE SECURITY & REVERSE ENGINEERING (OSRE) Course](https://exploitation.ashemery.com/)
 
 - [Nightmare - intro to binary exploitation / reverse engineering course](https://guyinatuxedo.github.io/index.html)
