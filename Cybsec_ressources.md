@@ -23,15 +23,13 @@ Commented Guide (w/ my opinions) : [link](https://docs.google.com/document/d/1rW
 
 5. [Advanced Resources](#advanced)
   
-   1. [Malware Development](#maldev)
-  
-   2. [Computer Forensics](#forensics)
-  
-   3. [Binary Exploitation](#binary)
-  
-   4. [Open Source Intelligence](#osint)
-  
-   5. [Misc Resources](#misc)
+   1. [Awesome lists](#awesome)
+   2. [Reverse Engineering](#RE)
+   3. [Malware Development](#maldev)
+   4. [Computer Forensics](#forensics)
+   5. [Binary Exploitation](#binary)
+   6. [Open Source Intelligence](#osint)
+   7. [Misc Resources](#misc)
 
 
 ## Foundation <a name="foundation"></a>
@@ -90,9 +88,61 @@ CTFs :
 
 # Advanced Resources <a name="advanced"></a>
 
+## Awesome Lists by awesome people <a name="awesome"></a>
+
+- [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+
+- [https://github.com/vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+
+- [https://github.com/rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
+
+## Reverse Engineering <a name='RE'></a>
+
+- [Reverse Engineering for Beginners](http://library.lol/main/4590A0C34D3B5B6CA77B4202D4036D48) by Dennis Yurichev
+
+- [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](http://library.lol/main/21F9FDBD90744C6AE0189B9CCDC26BF9) by Michael Sikorski & Andrew Honig
+
+- [OpenSecurityTraining](https://opensecuritytraining.info/Training.html)
+
+- [MicroCorruption CTF](https://microcorruption.com/)
+
+- NYU:Poly's Intro to Reverse Engineering [101](https://prezi.com/a5tm-lf0879-/reverse-engineering-101-nyupoly-2010/) and [102](https://prezi.com/e5a2tumdqocj/reverse-engineering-102-nyupoly-2010/)
+
+- [https://github.com/0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
+
+- [https://github.com/mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
+
+- [https://github.com/alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme_en.md)
+
+- [https://github.com/wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering)
+
+- [System Programming Roadmap](https://github.com/ujjwal-kr/system-programming-roadmap)
+
+- [Programming from the Ground Up: An introduction to programming using linux assembly language](http://programminggroundup.blogspot.com/)
+
+- [The Holy Book of X86](https://github.com/Captainarash/The_Holy_Book_of_X86)
+
+- [Reverse Engineering Reading List](https://github.com/onethawt/reverseengineering-reading-list)
+
+- [Awesome Reversing](https://github.com/ReversingID/Awesome-Reversing)
+
+- [Reversing: secrets of reverse engineering](http://library.lol/main/6CC7042E74CE0953C0E7DC5C17471CE5) by Eldad Eilam
+
+- [From 0x90 to 0x4c454554, a journey into exploitation.](http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html)
+
+- [Tuts 4 you](https://forum.tuts4you.com/files/categories/)
+
+- [Mastering Reverse Engineering](https://github.com/PacktPublishing/Mastering-Reverse-Engineering)
+
+- [Reverse Engineering Video Games](https://github.com/kovidomi/game-reversing)
+
+- [Reverse Engineering (Retro Games)](https://www.retroreversing.com/tutorials/introduction)
+
+- [CyberQueens](https://github.com/CyberQueens/CyberQueens)
+
 ## Malware Development <a name="maldev"></a>
 
-- [https://github.com/RPISEC/Malware](https://github.com/RPISEC/Malware)
+- [https://github.com/RPISEC/Malware](https://github.com/RPISEC/Malware) 
 
 - [https://0xpat.github.io/](https://0xpat.github.io/)
 
@@ -119,6 +169,8 @@ CTFs :
 - https://web.archive.org/web/20220216064210/https://forensicswiki.xyz/page/Main_Page
 
 ## Binary Exploitation <a name="binary"></a>
+
+- [Windows Binary Exploitation](https://github.com/NtRaiseHardError/Windows-Binary-Exploitation)
 
 - [https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
 
