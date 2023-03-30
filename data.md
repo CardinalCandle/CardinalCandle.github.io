@@ -90,12 +90,14 @@ MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013 ([
 
 - [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf "Reinforcement Learning: An Introduction") by Sutton and Barto.
 
-## Above and Beyond
+## Misc
 
-https://github.com/louisfb01/start-machine-learning
+- [theinsaneapp.com/2021/02/best-free-machine-learning-courses.html](https://www.theinsaneapp.com/2021/02/best-free-machine-learning-courses.html)
 
-https://www.reddit.com/r/learnmachinelearning/comments/qlpcl8/a_clear_roadmap_to_complete_learning_aiml_by_the/
+- [github.com/louisfb01/start-machine-learning](https://github.com/louisfb01/start-machine-learning)
 
-https://www.reddit.com/r/learnmachinelearning/comments/cxrpjz/comment/eyn8cna/?context=3
+- [reddit.com/r/learnmachinelearning/comments/qlpcl8/a_clear_roadmap_to_complete_learning_aiml_by_the/](https://www.reddit.com/r/learnmachinelearning/comments/qlpcl8/a_clear_roadmap_to_complete_learning_aiml_by_the/)
 
-https://www.reddit.com/r/learnmachinelearning/comments/cxrpjz/a_clear_roadmap_for_mldl/
+- [reddit.com/r/learnmachinelearning/comments/cxrpjz/comment/eyn8cna/?context=3](https://www.reddit.com/r/learnmachinelearning/comments/cxrpjz/comment/eyn8cna/?context=3)
+
+- [reddit.com/r/learnmachinelearning/comments/cxrpjz/a_clear_roadmap_for_mldl/](https://www.reddit.com/r/learnmachinelearning/comments/cxrpjz/a_clear_roadmap_for_mldl/)
