@@ -6,7 +6,7 @@
 
 - An Introduction to Statistical Learning course available on [edX](https://www.edx.org/course/statistical-learning) and [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e)
 
-- [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) by Hastie, Tibshirani, and Friedman
+- [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) by Hastie, Tibshirani, and Friedman. As well as some [Youtube videos](https://www.youtube.com/playlist?list=PLZC35jJLK_Y6kVJgG1-o9pzhVPPHeZaE7).
 
 - [Hands-on Machine Learning with scikit learn, Keras and tensorflow](https://library.lol/main/D6756726683D9AACB09B8B71A2E76319 "Hands-on Machine Learning with scikit learn, Keras and tensorflow") by Aurélien Géron
 
