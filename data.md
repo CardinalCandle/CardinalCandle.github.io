@@ -80,7 +80,9 @@ MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013 ([
 
 -  MIT 18.100A Real Analysis, Fall 2020 ([Youtube playlist](httphttps://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw "Youtube playlist"))
 
-## Advanced ML
+## Machine Learning
+
+- Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018 ([Youtube playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)) ([Notes and Problem sets](http://cs229.stanford.edu/syllabus-autumn2018.html))
 
 - CS4780: Machine Learning for Intelligent Systems ([Youtube playlist](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS "Youtube playlist"))
 
