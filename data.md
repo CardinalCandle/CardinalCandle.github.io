@@ -28,9 +28,11 @@
 
 ### Statistics
 
--  MIT Probability and statistics ([Youtube playlist](https://www.youtube.com/playlist?list=PLl8XY7QVSa4aUyZAtL2Hlf_mx3LaSix9B "Youtube playlist"))
+- Stanford Stats 116: Introduction to Probability ([Syllabus](https://web.stanford.edu/class/stats116/))
 
--  MIT 18.650 Statistics for Applications, Fall 2016 ([Youtube playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0 "Youtube playlist"))
+- MIT Probability and statistics ([Youtube playlist](https://www.youtube.com/playlist?list=PLl8XY7QVSa4aUyZAtL2Hlf_mx3LaSix9B "Youtube playlist"))
+
+- MIT 18.650 Statistics for Applications, Fall 2016 ([Youtube playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0 "Youtube playlist"))
 
 - [Think Stats: Probability and Statistics for Programmers](https://greenteapress.com/thinkstats/thinkstats.pdf "Think Stats: Probability and Statistics for Programmers") by Allen B. Downey
 
@@ -56,7 +58,9 @@
 ### Probability Theory
 *Prerequisites : Multivariable Calculus*
 
-MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013 ([Youtube playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe "Youtube playlist"))
+- Stanford CS109: Probability for Computer Scientists ([Syllabus](https://web.stanford.edu/class/cs109/))
+
+- MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013 ([Youtube playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe "Youtube playlist"))
 
 ### Linear Algebra
 *Prerequisites : Multivariable calculus*
@@ -83,6 +87,8 @@ MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013 ([
 ## Machine Learning
 
 - Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018 ([Youtube playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)) ([Notes and Problem sets](http://cs229.stanford.edu/syllabus-autumn2018.html))
+
+- Stanford CS230: Deep Learning | Autumn 2018 ([Youtube playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)) ([Notes and Problme sets](http://cs230.stanford.edu/syllabus/))
 
 - CS4780: Machine Learning for Intelligent Systems ([Youtube playlist](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS "Youtube playlist"))
 
