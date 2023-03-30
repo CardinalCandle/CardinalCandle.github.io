@@ -1,6 +1,8 @@
 # CardinalCandle
 
-[Cybersecurity ressources](https://cardinalcandle.github.io/Cybsec_ressources)
+[Cybersecurity resources](https://cardinalcandle.github.io/cybsec)
+
+[Data Science Roadmap](https://cardinalcandle.github.io/data)
 
 [comment]: Exercises
 
